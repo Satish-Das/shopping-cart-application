@@ -40,7 +40,7 @@ To run the Shopping Cart Application on your local machine, follow these steps:
 
 2. npm run dev
 
-3. Open http://localhost:3000 to view the application in your browser.
+3. Open http://localhost:5173 to view the application in your browser.
 
 
 ** ## Screenshots: **   
